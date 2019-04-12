@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Link to github how to write](https://help.github.com/en/categories/writing-on-github)
